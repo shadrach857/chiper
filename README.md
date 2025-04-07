@@ -1,1 +1,1 @@
-# chiper Its a js function that is going to encrypt and decrypt text
+# cihper Its a js function that is going to encrypt and decrypt text
